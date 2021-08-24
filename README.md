@@ -4,7 +4,8 @@
 
 
 Old Class Projects
-- [Data Mining and NBA All-Star Predictions](https://github.com/camuhl/Data_Mining_Class_Project)
+- [Data Mining: NBA All-Star Predictions](https://github.com/camuhl/Data_Mining_Class_Project)
+- [Business Writing Project: Tutor enablement App concept]()
 <!---
 camuhl/camuhl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
