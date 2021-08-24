@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @camuhl
+👋 Hi, I’m @camuhl
 - I’m interested in working on data scinece projects, generally involving my favorite sports teams. I also use this as a repo for any old projects I have worked on.
 - You can reach me at my email camuhl@pacbell.net
+
+Personal Projects
+-[Web Scraping: Predicting NCAA Men's Basketball Tournament Results]()
 
 
 Old Class Projects
