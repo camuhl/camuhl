@@ -3,7 +3,7 @@
 - You can reach me at my email camuhl@pacbell.net
 
 Personal Projects
--[Web Scraping: Predicting NCAA Men's Basketball Tournament Results]()
+- [Web Scraping: Predicting NCAA Men's Basketball Tournament Results]()
 
 
 Old Class Projects
