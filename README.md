@@ -4,6 +4,7 @@
 
 Personal Projects
 - [Web Scraping: Predicting NCAA Men's Basketball Tournament Results](https://github.com/camuhl/MMPredict)
+- [SQL Analysis of Instacart Shopping Data](https://github.com/alexvkahan/Instacart_Data_Analysis_Project)
 
 
 Old Class Projects
